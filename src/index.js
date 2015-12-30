@@ -1,4 +1,4 @@
-/**@flow*/
-import {getClient} from './ClientManager'
-import {createSocketAction} from './createSocketAction'
-import {listenSocketIo} from './listenSocketIo'
+/**@flow**/
+export {getClient} from './ClientManager'
+export {createSocketAction} from './createSocketAction'
+export {listenSocketIo} from './listenSocketIo'
